@@ -1,6 +1,6 @@
 # vue-shop
 
-## Project setup
+## Project setup1
 ```
 npm install
 ```
